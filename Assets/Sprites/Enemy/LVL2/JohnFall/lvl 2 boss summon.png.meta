@@ -1,0 +1,2951 @@
+fileFormatVersion: 2
+guid: 92906b22881b5444c9e0ff0b90936788
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9054867636697866568
+    second: lvl 2 boss summon_0
+  - first:
+      213: -2213661002971307394
+    second: lvl 2 boss summon_1
+  - first:
+      213: 5700225153469971108
+    second: lvl 2 boss summon_2
+  - first:
+      213: 2128114453822889001
+    second: lvl 2 boss summon_3
+  - first:
+      213: -7846659297760777345
+    second: lvl 2 boss summon_4
+  - first:
+      213: -7204440669064547096
+    second: lvl 2 boss summon_5
+  - first:
+      213: -8244646808573864452
+    second: lvl 2 boss summon_6
+  - first:
+      213: -7273116916280895594
+    second: lvl 2 boss summon_7
+  - first:
+      213: 4237364707234507374
+    second: lvl 2 boss summon_8
+  - first:
+      213: -188507906363301576
+    second: lvl 2 boss summon_9
+  - first:
+      213: 6619000680457199386
+    second: lvl 2 boss summon_10
+  - first:
+      213: 9146187887173081240
+    second: lvl 2 boss summon_11
+  - first:
+      213: -1591535010649686566
+    second: lvl 2 boss summon_12
+  - first:
+      213: 4607899948729512225
+    second: lvl 2 boss summon_13
+  - first:
+      213: 4489722950485769961
+    second: lvl 2 boss summon_14
+  - first:
+      213: -98502072166620880
+    second: lvl 2 boss summon_15
+  - first:
+      213: -2794065928132502238
+    second: lvl 2 boss summon_16
+  - first:
+      213: -5146945167593468883
+    second: lvl 2 boss summon_17
+  - first:
+      213: 2265687080374017197
+    second: lvl 2 boss summon_18
+  - first:
+      213: 2867949639565906066
+    second: lvl 2 boss summon_19
+  - first:
+      213: -5378600333708105852
+    second: lvl 2 boss summon_20
+  - first:
+      213: 4954186139377144343
+    second: lvl 2 boss summon_21
+  - first:
+      213: 8794431377102764536
+    second: lvl 2 boss summon_22
+  - first:
+      213: 8571595482706077789
+    second: lvl 2 boss summon_23
+  - first:
+      213: -5368205112940893953
+    second: lvl 2 boss summon_24
+  - first:
+      213: -6752137255314665078
+    second: lvl 2 boss summon_25
+  - first:
+      213: -7353811556666696909
+    second: lvl 2 boss summon_26
+  - first:
+      213: 2224640467974484874
+    second: lvl 2 boss summon_27
+  - first:
+      213: -2890216516030835392
+    second: lvl 2 boss summon_28
+  - first:
+      213: -6681863651230621634
+    second: lvl 2 boss summon_29
+  - first:
+      213: -1939964805789414565
+    second: lvl 2 boss summon_30
+  - first:
+      213: -5945112150030411256
+    second: lvl 2 boss summon_31
+  - first:
+      213: 2117058235469081843
+    second: lvl 2 boss summon_32
+  - first:
+      213: -1396754857105788182
+    second: lvl 2 boss summon_33
+  - first:
+      213: 8094932007889418136
+    second: lvl 2 boss summon_34
+  - first:
+      213: -1144638471277035188
+    second: lvl 2 boss summon_35
+  - first:
+      213: -1381009204764948855
+    second: lvl 2 boss summon_36
+  - first:
+      213: -8103584574237308614
+    second: lvl 2 boss summon_37
+  - first:
+      213: 1611749650689198981
+    second: lvl 2 boss summon_38
+  - first:
+      213: 6257470843246470784
+    second: lvl 2 boss summon_39
+  - first:
+      213: 238820684184104184
+    second: lvl 2 boss summon_40
+  - first:
+      213: -6957395691267082398
+    second: lvl 2 boss summon_41
+  - first:
+      213: -4312741830991013541
+    second: lvl 2 boss summon_42
+  - first:
+      213: 3633233004206349672
+    second: lvl 2 boss summon_43
+  - first:
+      213: -2729535075265277155
+    second: lvl 2 boss summon_44
+  - first:
+      213: -359237490047316238
+    second: lvl 2 boss summon_45
+  - first:
+      213: -4689149509345565092
+    second: lvl 2 boss summon_46
+  - first:
+      213: 1180588815126422313
+    second: lvl 2 boss summon_47
+  - first:
+      213: 1690990888060289735
+    second: lvl 2 boss summon_48
+  - first:
+      213: -5366484596434127097
+    second: lvl 2 boss summon_49
+  - first:
+      213: 7924240275528725241
+    second: lvl 2 boss summon_50
+  - first:
+      213: -2623787674178732540
+    second: lvl 2 boss summon_51
+  - first:
+      213: 7870166714350670694
+    second: lvl 2 boss summon_52
+  - first:
+      213: -5035087544546515670
+    second: lvl 2 boss summon_53
+  - first:
+      213: 4202456152168164001
+    second: lvl 2 boss summon_54
+  - first:
+      213: 9222066555585457502
+    second: lvl 2 boss summon_55
+  - first:
+      213: 8317159233320604431
+    second: lvl 2 boss summon_56
+  - first:
+      213: -6839398091867512999
+    second: lvl 2 boss summon_57
+  - first:
+      213: 7374941821863109039
+    second: lvl 2 boss summon_58
+  - first:
+      213: 3770965484114660395
+    second: lvl 2 boss summon_59
+  - first:
+      213: 121145632320019192
+    second: lvl 2 boss summon_60
+  - first:
+      213: 626175629506872390
+    second: lvl 2 boss summon_61
+  - first:
+      213: -7513533631298091837
+    second: lvl 2 boss summon_62
+  - first:
+      213: 1053481155203396697
+    second: lvl 2 boss summon_63
+  - first:
+      213: 3604174227283136269
+    second: lvl 2 boss summon_64
+  - first:
+      213: -5195879298639002838
+    second: lvl 2 boss summon_65
+  - first:
+      213: -5521701773810257517
+    second: lvl 2 boss summon_66
+  - first:
+      213: -6659288856035159285
+    second: lvl 2 boss summon_67
+  - first:
+      213: 6273484881828936777
+    second: lvl 2 boss summon_68
+  - first:
+      213: 5666772105352711018
+    second: lvl 2 boss summon_69
+  - first:
+      213: 3491645984633813072
+    second: lvl 2 boss summon_70
+  - first:
+      213: -5740955438923798685
+    second: lvl 2 boss summon_71
+  - first:
+      213: 6164571941745335639
+    second: lvl 2 boss summon_72
+  - first:
+      213: 115913298228101362
+    second: lvl 2 boss summon_73
+  - first:
+      213: -6704175575430986359
+    second: lvl 2 boss summon_74
+  - first:
+      213: 5862020814403329737
+    second: lvl 2 boss summon_75
+  - first:
+      213: -7622094887707968431
+    second: lvl 2 boss summon_76
+  - first:
+      213: -6555652265575866565
+    second: lvl 2 boss summon_77
+  - first:
+      213: -801861900391287549
+    second: lvl 2 boss summon_78
+  - first:
+      213: 1678789558303941605
+    second: lvl 2 boss summon_79
+  - first:
+      213: -3197919409164464565
+    second: lvl 2 boss summon_80
+  - first:
+      213: -7298924825804351732
+    second: lvl 2 boss summon_81
+  - first:
+      213: -6062877295300992212
+    second: lvl 2 boss summon_82
+  - first:
+      213: -3098852605754161819
+    second: lvl 2 boss summon_83
+  - first:
+      213: -120085466051275434
+    second: lvl 2 boss summon_84
+  - first:
+      213: 7900442210158073764
+    second: lvl 2 boss summon_85
+  - first:
+      213: 6217409645082887387
+    second: lvl 2 boss summon_86
+  - first:
+      213: -9055028881415207893
+    second: lvl 2 boss summon_87
+  - first:
+      213: -989612472310963896
+    second: lvl 2 boss summon_88
+  - first:
+      213: 2699696921497927940
+    second: lvl 2 boss summon_89
+  - first:
+      213: -3460051986716837082
+    second: lvl 2 boss summon_90
+  - first:
+      213: 7255871172248177283
+    second: lvl 2 boss summon_91
+  - first:
+      213: -5425212752582918133
+    second: lvl 2 boss summon_92
+  - first:
+      213: 552506612320579621
+    second: lvl 2 boss summon_93
+  - first:
+      213: 1674497626852007514
+    second: lvl 2 boss summon_94
+  - first:
+      213: -1395272974165507052
+    second: lvl 2 boss summon_95
+  - first:
+      213: -8645296981275047442
+    second: lvl 2 boss summon_96
+  - first:
+      213: -8352752549065358058
+    second: lvl 2 boss summon_97
+  - first:
+      213: 3196092059739527454
+    second: lvl 2 boss summon_98
+  - first:
+      213: 1621004732336088091
+    second: lvl 2 boss summon_99
+  - first:
+      213: -2799005752831220389
+    second: lvl 2 boss summon_100
+  - first:
+      213: 4296450311165473013
+    second: lvl 2 boss summon_101
+  - first:
+      213: 7771510536309708485
+    second: lvl 2 boss summon_102
+  - first:
+      213: 8887125259533672631
+    second: lvl 2 boss summon_103
+  - first:
+      213: -5339723463487442620
+    second: lvl 2 boss summon_104
+  - first:
+      213: 3788877447579992394
+    second: lvl 2 boss summon_105
+  - first:
+      213: 7066594469580230657
+    second: lvl 2 boss summon_106
+  - first:
+      213: -1471426848508227656
+    second: lvl 2 boss summon_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lvl 2 boss summon_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3372
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be5172fbd5a65280800000000000000
+      internalID: -9054867636697866568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2571
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72a2c8db0f7741e0800000000000000
+      internalID: -2213661002971307394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2569
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaf25473944b1f40800000000000000
+      internalID: 5700225153469971108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2567
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cdc7d02d4988d10800000000000000
+      internalID: 2128114453822889001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_4
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2561
+        width: 68
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7be37b21f01b1390800000000000000
+      internalID: -7846659297760777345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2563
+        width: 56
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4b70bd16fa40c90800000000000000
+      internalID: -7204440669064547096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_6
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2551
+        width: 146
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5956cd861259d80800000000000000
+      internalID: -8244646808573864452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_7
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2555
+        width: 22
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697513303b2b01b90800000000000000
+      internalID: -7273116916280895594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_8
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2558
+        width: 64
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a6d7e20c42eca30800000000000000
+      internalID: 4237364707234507374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_9
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 2547
+        width: 340
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831ecd3de09426df0800000000000000
+      internalID: -188507906363301576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_10
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 2553
+        width: 68
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f58b6cc0a6bdb50800000000000000
+      internalID: 6619000680457199386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_11
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 2551
+        width: 8
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8989eefbc69cdee70800000000000000
+      internalID: 9146187887173081240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_12
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 2547
+        width: 48
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addb0a2175bb9e9e0800000000000000
+      internalID: -1591535010649686566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_13
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 2547
+        width: 14
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1213094f69c82ff30800000000000000
+      internalID: 4607899948729512225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_14
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 2547
+        width: 78
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee7f936c33be4e30800000000000000
+      internalID: 4489722950485769961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_15
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 2555
+        width: 10
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0316ed223ec02aef0800000000000000
+      internalID: -98502072166620880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_16
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2558
+        width: 54
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dd3aa87db7939d0800000000000000
+      internalID: -2794065928132502238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1757
+        width: 20
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c8d27c3a06298b0800000000000000
+      internalID: -5146945167593468883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1751
+        width: 14
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac92ed3566517f10800000000000000
+      internalID: 2265687080374017197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1747
+        width: 16
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290190c80010dc720800000000000000
+      internalID: 2867949639565906066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1741
+        width: 28
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487e7885e7f5b55b0800000000000000
+      internalID: -5378600333708105852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1739
+        width: 10
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7121dbc9b0ec0c440800000000000000
+      internalID: 4954186139377144343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1737
+        width: 8
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f972c91eb81c0a70800000000000000
+      internalID: 8794431377102764536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_23
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1737
+        width: 18
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58e9016dac64f670800000000000000
+      internalID: 8571595482706077789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_24
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1737
+        width: 10
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8e8b944ed4085b0800000000000000
+      internalID: -5368205112940893953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1737
+        width: 28
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81d94ec0f69b42a0800000000000000
+      internalID: -6752137255314665078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_26
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1739
+        width: 8
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b18b3f95302f990800000000000000
+      internalID: -7353811556666696909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1741
+        width: 34
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83f39e08b28fde10800000000000000
+      internalID: 2224640467974484874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_28
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1750
+        width: 8
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045d3064463e3e7d0800000000000000
+      internalID: -2890216516030835392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1751
+        width: 10
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30edc649604543a0800000000000000
+      internalID: -6681863651230621634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1755
+        width: 16
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b892a994cd315e0800000000000000
+      internalID: -1939964805789414565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1757
+        width: 14
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a14938ff7be7da0800000000000000
+      internalID: -5945112150030411256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_32
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1751
+        width: 10
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc23fd9f3d416d10800000000000000
+      internalID: 2117058235469081843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_33
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1743
+        width: 10
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae278e79bdabd9ce0800000000000000
+      internalID: -1396754857105788182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1741
+        width: 14
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897303bb5c9f65070800000000000000
+      internalID: 8094932007889418136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_35
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1737
+        width: 10
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41494bff5d6d10f0800000000000000
+      internalID: -1144638471277035188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_36
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1737
+        width: 8
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986c076f17ba5dce0800000000000000
+      internalID: -1381009204764948855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_37
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1741
+        width: 10
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39004da3c84a8f80800000000000000
+      internalID: -8103584574237308614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_38
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1743
+        width: 18
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b803494c51e5610800000000000000
+      internalID: 1611749650689198981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_39
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1754
+        width: 8
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086e114149007d650800000000000000
+      internalID: 6257470843246470784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_40
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1759
+        width: 10
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc2fcd9526705300800000000000000
+      internalID: 238820684184104184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_41
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1755
+        width: 10
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267313c0b7d527f90800000000000000
+      internalID: -6957395691267082398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_42
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1750
+        width: 8
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5910d397201624c0800000000000000
+      internalID: -4312741830991013541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_43
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1743
+        width: 8
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dd1f9ea26db6230800000000000000
+      internalID: 3633233004206349672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_44
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1741
+        width: 10
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1318dc8f4ebe1ad0800000000000000
+      internalID: -2729535075265277155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_45
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1737
+        width: 8
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe0ab7f76bb30bf0800000000000000
+      internalID: -359237490047316238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_46
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1741
+        width: 8
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56a2cc8d5bcceeb0800000000000000
+      internalID: -4689149509345565092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_47
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1743
+        width: 10
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923e867b54b426010800000000000000
+      internalID: 1180588815126422313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_48
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1762
+        width: 8
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c28141e04b977710800000000000000
+      internalID: 1690990888060289735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_49
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1756
+        width: 8
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70730f041ba6685b0800000000000000
+      internalID: -5366484596434127097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_50
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1739
+        width: 8
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2bbb1db8e88fd60800000000000000
+      internalID: 7924240275528725241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_51
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1744
+        width: 8
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e3782030f669bd0800000000000000
+      internalID: -2623787674178732540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_52
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1658
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66399f3cde2783d60800000000000000
+      internalID: 7870166714350670694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_53
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1658
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25af462e86cf1ab0800000000000000
+      internalID: -5035087544546515670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_54
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 870
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa6326da9f125a30800000000000000
+      internalID: 4202456152168164001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_55
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 877
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d6ea4fbac5bff70800000000000000
+      internalID: 9222066555585457502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 869
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f035f6aa14c7c6370800000000000000
+      internalID: 8317159233320604431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_57
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 872
+        width: 16
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f90c01ca39511a0800000000000000
+      internalID: -6839398091867512999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_58
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 882
+        width: 17
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1a25b438e095660800000000000000
+      internalID: 7374941821863109039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_59
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 887
+        width: 60
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cc9ecd029255430800000000000000
+      internalID: 3770965484114660395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_60
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 896
+        width: 8
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa568c8f456ea100800000000000000
+      internalID: 121145632320019192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_61
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 898
+        width: 22
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64483cbda6f90b800800000000000000
+      internalID: 626175629506872390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_62
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 896
+        width: 56
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4c68288f09ab790800000000000000
+      internalID: -7513533631298091837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_63
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 896
+        width: 8
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95477717787be9e00800000000000000
+      internalID: 1053481155203396697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_64
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 894
+        width: 16
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f44dd2d59940230800000000000000
+      internalID: 3604174227283136269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_65
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 883
+        width: 54
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2301dc8e4784e7b0800000000000000
+      internalID: -5195879298639002838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_66
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 878
+        width: 12
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3913560fd79fe53b0800000000000000
+      internalID: -5521701773810257517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_67
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 878
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b039e4f51147593a0800000000000000
+      internalID: -6659288856035159285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_68
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 875
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c723df245ef0750800000000000000
+      internalID: 6273484881828936777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_69
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 60
+        width: 10
+        height: 767
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b04aab43b64ae40800000000000000
+      internalID: 5666772105352711018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_70
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 71
+        width: 11
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05874830681d47030800000000000000
+      internalID: 3491645984633813072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_71
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 32
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367a997f1770450b0800000000000000
+      internalID: -5740955438923798685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_72
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 86
+        width: 12
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d121c0585fc8550800000000000000
+      internalID: 6164571941745335639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_73
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 87
+        width: 6
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f041a5d78ecb9100800000000000000
+      internalID: 115913298228101362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_74
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 88
+        width: 14
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985069a95dbf5f2a0800000000000000
+      internalID: -6704175575430986359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_75
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 88
+        width: 28
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ced4745fd41a5150800000000000000
+      internalID: 5862020814403329737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_76
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 89
+        width: 6
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c78dd4511e83690800000000000000
+      internalID: -7622094887707968431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_77
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 48
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f9d5f6ff4a505a0800000000000000
+      internalID: -6555652265575866565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_78
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 76
+        width: 8
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305f14c99d63fd4f0800000000000000
+      internalID: -801861900391287549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_79
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 56
+        width: 14
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3675b65324c4710800000000000000
+      internalID: 1678789558303941605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_80
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 58
+        width: 8
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ecc6c9d35be93d0800000000000000
+      internalID: -3197919409164464565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_81
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 71
+        width: 10
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07d6a3da8205ba90800000000000000
+      internalID: -7298924825804351732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_82
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 76
+        width: 16
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23adc0f8355cdba0800000000000000
+      internalID: -6062877295300992212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_83
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 82
+        width: 8
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565cab639f9aef4d0800000000000000
+      internalID: -3098852605754161819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_84
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 84
+        width: 8
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6559355a7ee555ef0800000000000000
+      internalID: -120085466051275434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_85
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 90
+        width: 10
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a759f0f45204ad60800000000000000
+      internalID: 7900442210158073764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_86
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 88
+        width: 8
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4c046812da84650800000000000000
+      internalID: 6217409645082887387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_87
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 89
+        width: 6
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24085c3533165280800000000000000
+      internalID: -9055028881415207893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_88
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 88
+        width: 8
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841eb9a13b03442f0800000000000000
+      internalID: -989612472310963896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_89
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 85
+        width: 6
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4018917eb00477520800000000000000
+      internalID: 2699696921497927940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_90
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 82
+        width: 16
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bbb5bdc0d6bffc0800000000000000
+      internalID: -3460051986716837082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_91
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 77
+        width: 6
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a89dd436802b460800000000000000
+      internalID: 7255871172248177283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_92
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 69
+        width: 10
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00406bdeb5c5b4b0800000000000000
+      internalID: -5425212752582918133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_93
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 72
+        width: 8
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5203c6b26d5eaa700800000000000000
+      internalID: 552506612320579621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_94
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 77
+        width: 6
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e9fb148b20d3710800000000000000
+      internalID: 1674497626852007514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_95
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 78
+        width: 7
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414892a5f9ef2ace0800000000000000
+      internalID: -1395272974165507052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_96
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 81
+        width: 6
+        height: 745
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee90855433cb50880800000000000000
+      internalID: -8645296981275047442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_97
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 85
+        width: 6
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6158838bfcf051c80800000000000000
+      internalID: -8352752549065358058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_98
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 87
+        width: 8
+        height: 739
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1998327bccca5c20800000000000000
+      internalID: 3196092059739527454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_99
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 89
+        width: 6
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14ae123737fe7610800000000000000
+      internalID: 1621004732336088091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_100
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 87
+        width: 6
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55683af81fe729d0800000000000000
+      internalID: -2799005752831220389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_101
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 82
+        width: 8
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f072206bce00ab30800000000000000
+      internalID: 4296450311165473013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_102
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 68
+        width: 8
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c612f458a3f9db60800000000000000
+      internalID: 7771510536309708485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_103
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 77
+        width: 6
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0e7e86659655b70800000000000000
+      internalID: 8887125259533672631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_104
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 87
+        width: 6
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44133001dcd75e5b0800000000000000
+      internalID: -5339723463487442620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_105
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 89
+        width: 6
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a418e78d6fbc49430800000000000000
+      internalID: 3788877447579992394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_106
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 83
+        width: 6
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100d11bca36911260800000000000000
+      internalID: 7066594469580230657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvl 2 boss summon_107
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 60
+        width: 8
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfc1b5c311749be0800000000000000
+      internalID: -1471426848508227656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lvl 2 boss summon_0: -9054867636697866568
+      lvl 2 boss summon_1: -2213661002971307394
+      lvl 2 boss summon_10: 6619000680457199386
+      lvl 2 boss summon_100: -2799005752831220389
+      lvl 2 boss summon_101: 4296450311165473013
+      lvl 2 boss summon_102: 7771510536309708485
+      lvl 2 boss summon_103: 8887125259533672631
+      lvl 2 boss summon_104: -5339723463487442620
+      lvl 2 boss summon_105: 3788877447579992394
+      lvl 2 boss summon_106: 7066594469580230657
+      lvl 2 boss summon_107: -1471426848508227656
+      lvl 2 boss summon_11: 9146187887173081240
+      lvl 2 boss summon_12: -1591535010649686566
+      lvl 2 boss summon_13: 4607899948729512225
+      lvl 2 boss summon_14: 4489722950485769961
+      lvl 2 boss summon_15: -98502072166620880
+      lvl 2 boss summon_16: -2794065928132502238
+      lvl 2 boss summon_17: -5146945167593468883
+      lvl 2 boss summon_18: 2265687080374017197
+      lvl 2 boss summon_19: 2867949639565906066
+      lvl 2 boss summon_2: 5700225153469971108
+      lvl 2 boss summon_20: -5378600333708105852
+      lvl 2 boss summon_21: 4954186139377144343
+      lvl 2 boss summon_22: 8794431377102764536
+      lvl 2 boss summon_23: 8571595482706077789
+      lvl 2 boss summon_24: -5368205112940893953
+      lvl 2 boss summon_25: -6752137255314665078
+      lvl 2 boss summon_26: -7353811556666696909
+      lvl 2 boss summon_27: 2224640467974484874
+      lvl 2 boss summon_28: -2890216516030835392
+      lvl 2 boss summon_29: -6681863651230621634
+      lvl 2 boss summon_3: 2128114453822889001
+      lvl 2 boss summon_30: -1939964805789414565
+      lvl 2 boss summon_31: -5945112150030411256
+      lvl 2 boss summon_32: 2117058235469081843
+      lvl 2 boss summon_33: -1396754857105788182
+      lvl 2 boss summon_34: 8094932007889418136
+      lvl 2 boss summon_35: -1144638471277035188
+      lvl 2 boss summon_36: -1381009204764948855
+      lvl 2 boss summon_37: -8103584574237308614
+      lvl 2 boss summon_38: 1611749650689198981
+      lvl 2 boss summon_39: 6257470843246470784
+      lvl 2 boss summon_4: -7846659297760777345
+      lvl 2 boss summon_40: 238820684184104184
+      lvl 2 boss summon_41: -6957395691267082398
+      lvl 2 boss summon_42: -4312741830991013541
+      lvl 2 boss summon_43: 3633233004206349672
+      lvl 2 boss summon_44: -2729535075265277155
+      lvl 2 boss summon_45: -359237490047316238
+      lvl 2 boss summon_46: -4689149509345565092
+      lvl 2 boss summon_47: 1180588815126422313
+      lvl 2 boss summon_48: 1690990888060289735
+      lvl 2 boss summon_49: -5366484596434127097
+      lvl 2 boss summon_5: -7204440669064547096
+      lvl 2 boss summon_50: 7924240275528725241
+      lvl 2 boss summon_51: -2623787674178732540
+      lvl 2 boss summon_52: 7870166714350670694
+      lvl 2 boss summon_53: -5035087544546515670
+      lvl 2 boss summon_54: 4202456152168164001
+      lvl 2 boss summon_55: 9222066555585457502
+      lvl 2 boss summon_56: 8317159233320604431
+      lvl 2 boss summon_57: -6839398091867512999
+      lvl 2 boss summon_58: 7374941821863109039
+      lvl 2 boss summon_59: 3770965484114660395
+      lvl 2 boss summon_6: -8244646808573864452
+      lvl 2 boss summon_60: 121145632320019192
+      lvl 2 boss summon_61: 626175629506872390
+      lvl 2 boss summon_62: -7513533631298091837
+      lvl 2 boss summon_63: 1053481155203396697
+      lvl 2 boss summon_64: 3604174227283136269
+      lvl 2 boss summon_65: -5195879298639002838
+      lvl 2 boss summon_66: -5521701773810257517
+      lvl 2 boss summon_67: -6659288856035159285
+      lvl 2 boss summon_68: 6273484881828936777
+      lvl 2 boss summon_69: 5666772105352711018
+      lvl 2 boss summon_7: -7273116916280895594
+      lvl 2 boss summon_70: 3491645984633813072
+      lvl 2 boss summon_71: -5740955438923798685
+      lvl 2 boss summon_72: 6164571941745335639
+      lvl 2 boss summon_73: 115913298228101362
+      lvl 2 boss summon_74: -6704175575430986359
+      lvl 2 boss summon_75: 5862020814403329737
+      lvl 2 boss summon_76: -7622094887707968431
+      lvl 2 boss summon_77: -6555652265575866565
+      lvl 2 boss summon_78: -801861900391287549
+      lvl 2 boss summon_79: 1678789558303941605
+      lvl 2 boss summon_8: 4237364707234507374
+      lvl 2 boss summon_80: -3197919409164464565
+      lvl 2 boss summon_81: -7298924825804351732
+      lvl 2 boss summon_82: -6062877295300992212
+      lvl 2 boss summon_83: -3098852605754161819
+      lvl 2 boss summon_84: -120085466051275434
+      lvl 2 boss summon_85: 7900442210158073764
+      lvl 2 boss summon_86: 6217409645082887387
+      lvl 2 boss summon_87: -9055028881415207893
+      lvl 2 boss summon_88: -989612472310963896
+      lvl 2 boss summon_89: 2699696921497927940
+      lvl 2 boss summon_9: -188507906363301576
+      lvl 2 boss summon_90: -3460051986716837082
+      lvl 2 boss summon_91: 7255871172248177283
+      lvl 2 boss summon_92: -5425212752582918133
+      lvl 2 boss summon_93: 552506612320579621
+      lvl 2 boss summon_94: 1674497626852007514
+      lvl 2 boss summon_95: -1395272974165507052
+      lvl 2 boss summon_96: -8645296981275047442
+      lvl 2 boss summon_97: -8352752549065358058
+      lvl 2 boss summon_98: 3196092059739527454
+      lvl 2 boss summon_99: 1621004732336088091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
