@@ -14,7 +14,7 @@ RuneBound combines melee combat, ranged attacks, and special skill usage with cl
 - **Why it was made:** To develop and showcase Unity gameplay systems such as character selection, skill UI, damage handling, invincibility states, and boss fight progression.
 - **Key goals:** make class-specific abilities feel distinct, support level-based progression, and create reusable UI logic for skills.
 
-> The `About` scene emphasizes that the game is for entertainment purposes only, is fantasy-based, and features three levels of monster combat.
+> Play online: https://zil30.itch.io/rune-bound
 
 ### Available classes
 
